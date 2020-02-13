@@ -50,11 +50,11 @@ Fast and qualified customer support is one of the key reasons our customers keep
 
 **Middle school**: №8, Grodno
 
-**Graduation**:  2004 with gold medal
+Graduation:  2004 with gold medal
 
 **University**: Belarusian State University of Informatics and Radioelectronics, Faculty of Computer-Aided Design
 
-**Graduation**: 2009
+Graduation: 2009
 
 **Finished educational courses**: Streamline language school. CEFR level - A2
 
