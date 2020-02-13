@@ -58,7 +58,7 @@ Fast and qualified customer support is one of the key reasons our customers keep
 
 **Finished educational courses**: Streamline language school. CEFR level - A2
 
-**Current eductaional courses**:
+**Current educational courses**:
 
 * Student in RS School on "JavaScript/Front-end" course
 
