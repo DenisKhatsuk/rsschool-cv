@@ -30,7 +30,7 @@ Please find my custom projects examples below:
 
 * DNN template customization to fit clients design for Fly Fishers website.
   * [Result](https://flyfishersinternational.org/)
-  * [Source template](https://store.dnnsoftware.com/home/product-details/generic-4-taking-dnn-theme-to-new-height-70-themes-revolution-visual-editor-theme-generator)
+  * [Source template](http://generic4.websitescreative.com/)
 * DNN template customization for Online Seminar website:
   * [Result](https://www.onlineseminar.nl/)
   * [Source template](http://polo.websitescreative.com/)
