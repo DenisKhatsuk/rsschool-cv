@@ -1,0 +1,80 @@
+/* Typography */
+
+html {
+  font-size: 10px;
+  line-height: 10px;
+}
+
+body {
+  font-family: "Open Sans", "Verdana", sans-serif;
+  font-size: 1.6rem;
+  line-height: 2.5rem;
+}
+
+.bold {
+  font-weight: 700;
+}
+
+a {
+  text-decoration: none;
+  color: #0366d6;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Structure and positioning */
+
+.wrapper {
+  width: 1024px;
+  margin: 0 auto;
+}
+
+main .wrapper > section {
+  padding-top: 30px;
+}
+
+main .wrapper > section:last-child {
+  padding-bottom: 30px;
+}
+
+/* Main title block */
+
+h1.main-title {
+  text-align: center;
+  padding-bottom: 40px;
+}
+
+/* Layout 2 columns block */
+
+.layout-2-columns {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between; 
+  align-items: flex-end; 
+}
+
+.layout-2-columns > div {
+  width: 40%;
+  height: fit-content;
+}
+
+/* Hero block */
+
+.hero-info .bold {
+  padding-right: 10px;
+}
+
+.hero-photo img {
+  height: 100%;
+  width: 100%;
+  max-height: 100%;
+  max-width: 100%;
+}
+
+/* List block */
+
+.list li + li {
+  margin-top: 0.5em;
+}
